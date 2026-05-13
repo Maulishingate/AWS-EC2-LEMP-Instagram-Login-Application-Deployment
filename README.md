@@ -8,4 +8,4 @@ the application on a custom port, and later migrate the application data to anot
 EC2 server using an EBS volume.
 
 ## Task 1 – Launch EC2 Instance
-Screenshot 2026-05-12 000118.png
+!(Screenshot 2026-05-12 000118.png)
